@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Campera Bomber Azul",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 72
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Chaqueta Casual",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 65
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Chaqueta Abrigada",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 80
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Campera Bomber Negra",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 76
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Campera Polar",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 62
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Remera Básica Azul Lisa",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Remera Blanca Estampada",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 9
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Remera Celeste Estampada",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 8
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Remera Básica Roja Lisa",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Remera Básica Marrón Lisa",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Remera Básica Negra Lisa",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Remera Básica Verde Lisa",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Remera Básica Celeste Lisa",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Skinny Crema",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 18
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón Chino Blanco",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 20
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón Skinny Negro",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 18
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón Gabardina Negro",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 23
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón Skinny Verde",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 18
+    }
+]
